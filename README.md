@@ -1,5 +1,7 @@
 # RaidBot Spanish
 
+## Discord Server : https://discord.gg/b2DGCmzqcJ
+
 ### `Comandos:`
 
 1. **Clear All**
